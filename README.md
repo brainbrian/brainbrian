@@ -1,6 +1,6 @@
 # Hello World! 🌊
 
-I'm a principal software engineer working for [VideoAmp](https://videoamp.com) in Los Angeles, CA.
+I'm a staff software engineer working for [Surfline](https://surfline.com) in Los Angeles, CA.
 
 [🌎](https://brainbrian.com)&nbsp;
 [👨🏻‍💻](https://www.linkedin.com/in/brianbehrens/)&nbsp;
